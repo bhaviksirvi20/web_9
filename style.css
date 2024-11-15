@@ -29,7 +29,7 @@
 .nav1a {
     height: 45px;
     width: 25%;
-    background-image: url(./free_fire-logo-freelogovectors.net_-removebg-preview.png);
+    background-image: url(./assets/free_fire-logo-freelogovectors.net_-removebg-preview.png);
     /* background-color: blueviolet; */
     background-position: center;
     background-repeat: no-repeat;
@@ -144,7 +144,7 @@ svg:hover {
     height: 140vh;
     width: 100%;
     /* background-color: red; */
-    background-image: url(./06bbaa2c9707c761311dc5b76082b5d8.jpg);
+    background-image: url(./assets/06bbaa2c9707c761311dc5b76082b5d8.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -180,7 +180,7 @@ svg:hover {
     height: 100vh;
     width: 100%;
     /* background-color: red; */
-    background-image: url(./home_news_bg.c422198.jpg);
+    background-image: url(./assets/home_news_bg.c422198.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -563,7 +563,7 @@ img {
     height: 100vh;
     width: 100%;
     background-color: blueviolet;
-    background-image: url(./\ p4.jpg);
+    background-image: url(./assets/\ p4.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -637,7 +637,7 @@ img {
     height: 100vh;
     width: 60%;
     /* background-color: red; */
-    background-image: url(./home_chars_bg_m.ab67bda-removebg.png);
+    background-image: url(./assets/home_chars_bg_m.ab67bda-removebg.png);
     left: 514.5px;
     background-repeat: no-repeat;
     position: relative;
@@ -650,7 +650,7 @@ img {
     width: 100%;
     background-color: black;
     margin-top: -728px;
-    background-image: url(./page5.jpg);
+    background-image: url(./assets/page5.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -682,7 +682,7 @@ img {
     width: 60%;
     /* background-color: rgb(38, 0, 255); */
     font-size: 80px;
-    background-image: url(./Screenshot__1535_-removebg-preview.png);
+    background-image: url(./assets/Screenshot__1535_-removebg-preview.png);
     color: white;
     position: relative;
     left: -30px;
@@ -710,7 +710,7 @@ img {
     height: 100vh;
     width: 100%;
     /* background-color: firebrick; */
-    background-image: url(./page6.jpg);
+    background-image: url(./assets/page6.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -734,7 +734,7 @@ img {
     width: 35%;
     /* background-color: rgb(217, 0, 255); */
     font-size: 50px;
-    background-image: url(./Screenshot__1535_-removebg-preview.png);
+    background-image: url(./assets/Screenshot__1535_-removebg-preview.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -772,7 +772,7 @@ img {
     height: 100vh;
     width: 50%;
     /* background-color: rgb(208, 0, 255); */
-    background-image: url(./123.png);
+    background-image: url(./assets/123.png);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
